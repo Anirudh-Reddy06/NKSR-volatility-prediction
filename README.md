@@ -9,6 +9,6 @@
 
 ## 📝 Description
 
-4th place solution for predicting implied volatility surfaces in the **NKSR Volatility Curve Hackathon** using high-frequency NIFTY50 options data. The goal was to reconstruct the market’s volatility smile by predicting missing implied volatility (IV) values based on anonymized per-second features.
+4th place solution for predicting implied volatility surfaces in the **Volatility Curve Hackathon** hosted by **NK Securities Research**, using high-frequency NIFTY50 options data. The goal was to reconstruct the market’s volatility smile by predicting missing implied volatility (IV) values based on anonymized per-second features.
 
 ---
